@@ -2,6 +2,14 @@
   <img src="assets/demo.gif" alt="Compliance Gate. O Compose sobe a API, o Postgres e o Redis. O login devolve TI_ADMIN." width="820">
 </p>
 
+## A tela
+
+A tela de login, aberta com o Vite. A API não estava no ar, então o print para no formulário. É a primeira coisa que a pessoa vê.
+
+<p align="center">
+  <img src="assets/tela.png" alt="Tela de login do Compliance Gate, com usuário, senha e o corredor ao lado." width="820">
+</p>
+
 Compliance Gate tira a conformidade de dentro da planilha. O arquivo entra, o backend lê o cabeçalho, processa, e o front só mostra o que já veio pronto.
 
 ## Do que é feito
